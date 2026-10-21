@@ -101,7 +101,7 @@ button:
     internal: true
 
 external_components:
-  - source: github://n-IA-hane/esphome-audio-stack@v2026.10.2
+  - source: github://n-IA-hane/esphome-audio-stack@v2026.10.3-dev
     components:
       - esp_audio_stack
       - esp_aec
